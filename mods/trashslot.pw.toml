@@ -1,6 +1,6 @@
 name = "TrashSlot"
 filename = "trashslot-forge-1.19-12.0.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

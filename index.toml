@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "34f1fc5f77ad67f3afeaee435ae712f1b206b7000c2035e3093dd684222fc248"
+hash = "5fdd47d0a8d2da612f4661b5043694f5b6d92754d603816d1ad9de4d6d13022b"
 metafile = true
 
 [[files]]
