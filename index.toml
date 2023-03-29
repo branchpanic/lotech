@@ -25,10 +25,6 @@ file = "config/twilightforest-common.toml"
 hash = "66d007dc12d5aa2558af2dda968e1ad8e7bb8467e52be1d83b8d90f92cd80afb"
 
 [[files]]
-file = "modpack.code-workspace"
-hash = "987500c473cb45eb21ef1a330a91bd297da30eafd6e5eaef81db7e8ea3d8d338"
-
-[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "748d9415c0112e1d81ebe9ef3bc13b8a3761fafeeca200847cce21243808a8e6"
 metafile = true

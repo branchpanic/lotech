@@ -2,3 +2,4 @@ LICENSE
 .editorconfig
 .gitattributes
 .gitignore
+*.code-workspace
