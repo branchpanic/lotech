@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-storage-network.pw.toml"
-hash = "9a4c1d9ee2fd12cf08d54f13ab53c7416a64a32921f44014647c50f58aa65e7f"
+hash = "ae42648e9af29641f6615009d2a1d462b556017ef5872d430bb965fcf8432089"
 metafile = true
 
 [[files]]
