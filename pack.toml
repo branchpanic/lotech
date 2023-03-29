@@ -1,0 +1,13 @@
+name = "lotech"
+author = "branchpanic"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0b3363287957726feeb3419d6a9147ffc7eb14e22512cdb3a0d24e6de0108635"
+
+[versions]
+forge = "43.2.8"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "CorgiLib"
+filename = "CorgiLib-forge-1.19.2-1.0.0.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec0135b7b4ccd3b95dae99928212b7a234135cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4416614
+project-id = 693313
