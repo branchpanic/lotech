@@ -367,7 +367,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
-
-[[files]]
-file = "notes.md"
-hash = "0698f1ae14cbaace1111e2298afe9612a618c29d3e9f09f5c2ef100a67744259"
