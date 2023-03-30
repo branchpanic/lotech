@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Validate hashes
         run: |
-          echo .ignored >> .packwizignore
+          echo *.ignored >> .packwizignore
           cp pack.toml pack.toml.ignored
           cp index.toml index.toml.ignored
           ~/go/bin/packwiz refresh
