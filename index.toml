@@ -13,10 +13,6 @@ file = "config/create-client.toml"
 hash = "c48361e6c2247fa01ec2303662f4e383403b98e9b2d788a60e1b67dd913f3055"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "e42eab6e34de5768dcfcece88d273c46ad6e93d89302693628dd49e3e7399c12"
-
-[[files]]
 file = "config/fastbench.cfg"
 hash = "1d5d68910ddcc6a1a4e7d69fbaf4fcc24f49ba0013177375f54a897ee0e3d300"
 
@@ -39,6 +35,10 @@ hash = "334ba5f4755105755d11e887e78463037ba1eb6d20549ab4dfc48cdd6a6fbd77"
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "6849fe50eb24d279a8f086519f4f78437e4ef7c2f23c8e6a8c5bcf1e57fe5c95"
+
+[[files]]
+file = "defaultoptions/keybindings.txt"
+hash = "e42eab6e34de5768dcfcece88d273c46ad6e93d89302693628dd49e3e7399c12"
 
 [[files]]
 file = "mods/allthecompressed.pw.toml"
