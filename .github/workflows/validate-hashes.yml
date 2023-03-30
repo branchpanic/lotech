@@ -1,0 +1,21 @@
+name: Validate Packwiz Hashes
+
+on: [push]
+jobs:
+  validate-hashes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.0.0
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Validate hashes
+        run: |
+          echo *.ignored >> .packwizignore
+          cp pack.toml pack.toml.ignored
+          cp index.toml index.toml.ignored
+          ~/go/bin/packwiz refresh
+          cmp pack.toml pack.toml.ignored
+          cmp index.toml index.toml.ignored

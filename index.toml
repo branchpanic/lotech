@@ -9,6 +9,10 @@ file = "config/byg/client/biomepedia_inventory.json5"
 hash = "024a71a349afbf525b99eee7e1b66108c145227d91c3499442e567b02f423437"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "e84d73e594da0959ee0ef1b87813b489a04af814850dfd7e425546cb761356cf"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "c48361e6c2247fa01ec2303662f4e383403b98e9b2d788a60e1b67dd913f3055"
 
@@ -37,6 +41,18 @@ file = "config/twilightforest-common.toml"
 hash = "6849fe50eb24d279a8f086519f4f78437e4ef7c2f23c8e6a8c5bcf1e57fe5c95"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "76c66b7975fbf7064d3882b0964ba906be7a03c179204117622b2799cb707f9a"
+
+[[files]]
+file = "defaultoptions/keybindings.txt"
+hash = "e42eab6e34de5768dcfcece88d273c46ad6e93d89302693628dd49e3e7399c12"
+
+[[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "bb9d60ce29ec8079b6460bd3feee76435d43e31e150b6998db64235659ca3ec1"
+
+[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "748d9415c0112e1d81ebe9ef3bc13b8a3761fafeeca200847cce21243808a8e6"
 metafile = true
@@ -52,6 +68,11 @@ hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a33f941fc49859480dad693cbd215a74c222b9c180fceba293de960bbe31dbc9"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
 metafile = true
@@ -64,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "807d571499cd572494cad6d4e7801ca974e5a36075abdf742fb32d6ba70f4730"
 metafile = true
 
 [[files]]
@@ -122,8 +148,28 @@ hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f34f82264fa68b8835a32e8f6ed507bd1cd2944a10cc566358ae2351e7b29437"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
+metafile = true
+
+[[files]]
+file = "mods/datapack-anvil.pw.toml"
+hash = "c1c176887eab428f17f63d4e990047b11eb6daa2c6fa5fc0705d3e49e5b149da"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
+metafile = true
+
+[[files]]
+file = "mods/elemental-craft.pw.toml"
+hash = "93803d6c530cbfbe2c78e582cd288021038f486cd6e44c60449f718313a54129"
 metafile = true
 
 [[files]]
@@ -154,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "811d49c699295f3bd32dd8ecf3b7f2d781f19c42d708df823b83c4e3af72923b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
 metafile = true
 
 [[files]]
@@ -212,6 +263,16 @@ hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "3eb92d7882fe2c41446301181df65fc2274d347e48785d0f037ee952bc7f07fe"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
@@ -242,6 +303,11 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "743790c55cd637d49a23f39aa6b9c8bd6d058f222c7501e8e76748ddc1380a23"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
@@ -259,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "797e6b65f53aa22bed2ba81b2b33acaf4ab0233d4eb52ff254f267960eba5793"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "8d8d739ecbf5e7ec8649fa244f05640cab27812fbd5f63df5f55f6b42c389b01"
 metafile = true
 
 [[files]]
@@ -327,8 +398,18 @@ hash = "176eda94ad465f880e240ef29685dfd9b21aac18c1606c8d526b9dcad4a232f4"
 metafile = true
 
 [[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "03d01c3265a0040a070f44db6e4b5ef2f90bbace86a01d1bcf9706b26fe4dd9a"
+metafile = true
+
+[[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "453855eca691e5b0c2502517bc5fcd60aaeb9645c4a45f3af2e456135ed347af"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "10e859a99a8421b0670ba681d5beac3f16dd8713a306b5368a80ee4b3a839032"
 metafile = true
 
 [[files]]
