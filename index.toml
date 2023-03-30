@@ -13,6 +13,10 @@ file = "config/create-client.toml"
 hash = "c48361e6c2247fa01ec2303662f4e383403b98e9b2d788a60e1b67dd913f3055"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "e42eab6e34de5768dcfcece88d273c46ad6e93d89302693628dd49e3e7399c12"
+
+[[files]]
 file = "config/fastbench.cfg"
 hash = "1d5d68910ddcc6a1a4e7d69fbaf4fcc24f49ba0013177375f54a897ee0e3d300"
 
@@ -127,6 +131,11 @@ hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
+metafile = true
+
+[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "2a95ebc9c17c85829a519d64a091fa9f670b47581d1156218acc08234b74a0d1"
 metafile = true
@@ -209,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "da3c3b8b5ae30b1b9e9ecab4b77ce2829bfd94b97bec4b2745f5ba8dea40c9e2"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "22267079d5b777a0d8da7ec58707613711689dbb2902502b996658ec1a14bd8a"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
 
 [[files]]
