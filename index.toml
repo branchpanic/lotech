@@ -10,7 +10,7 @@ hash = "024a71a349afbf525b99eee7e1b66108c145227d91c3499442e567b02f423437"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "e84d73e594da0959ee0ef1b87813b489a04af814850dfd7e425546cb761356cf"
+hash = "4d03f4bd35fcfd87d8313a4dd7c7e5c82d65848726b9c842584f989d696c146f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -55,6 +55,11 @@ hash = "bb9d60ce29ec8079b6460bd3feee76435d43e31e150b6998db64235659ca3ec1"
 [[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "748d9415c0112e1d81ebe9ef3bc13b8a3761fafeeca200847cce21243808a8e6"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "6ca90bf914b24517e0b6b3596490f28f1dc3757dd28a1243f5e5d8ede316cc30"
 metafile = true
 
 [[files]]
@@ -105,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "9a6946b0cd05c9e574731b95105d6ff8f020a7ce64b61798aef745e451ffa562"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "75b18699150df4f2ba966e78f6f76dc85cb1794baaf848854d1824e3045c15b3"
 metafile = true
 
 [[files]]
@@ -165,6 +175,16 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
+metafile = true
+
+[[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "ba0b1559cf7a01d65af4088ae19db4f81a4def903aa9b983ca0b6246dde5cb65"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "706799db60fb471753f9a40627dc6af717ffedaae833dbe37b83273793e2d765"
 metafile = true
 
 [[files]]
@@ -278,6 +298,11 @@ hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
 
 [[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "678aeeae6f993ca08ef2ba4a6587a590571ecccb2a46d9f64cd8211dae94abea"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "f223c15d885b073b946cc458f4476727f8a992ae3c83368c6c6a4554e8485d64"
 metafile = true
@@ -355,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "ae42648e9af29641f6615009d2a1d462b556017ef5872d430bb965fcf8432089"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "a9a4e95e24894750635b270c8c89eafaeb0d61bbb5ab25f40e5c5075714ff828"
 metafile = true
 
 [[files]]
