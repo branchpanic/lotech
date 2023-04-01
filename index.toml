@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "ef2c25fb917262ef509dc57eeea13bdb5a2086e9b37c09efd9c305be34a6a359"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "340704766956bc1913c63df95f14075f03247793013f7a15e88a7e196b431a86"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "4d1523e604b0ceaafe085ee2ac33de4fe59fa05b90d278e07315e13e4278684d"
 
