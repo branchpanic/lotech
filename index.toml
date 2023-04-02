@@ -49,6 +49,10 @@ file = "config/supplementaries-client.toml"
 hash = "334ba5f4755105755d11e887e78463037ba1eb6d20549ab4dfc48cdd6a6fbd77"
 
 [[files]]
+file = "config/tetra.toml"
+hash = "84a3c22ac832cc7e61a80a76ecf7ad4842d02591404f908069f21a78ec3860d0"
+
+[[files]]
 file = "config/twilightforest-common.toml"
 hash = "6849fe50eb24d279a8f086519f4f78437e4ef7c2f23c8e6a8c5bcf1e57fe5c95"
 
