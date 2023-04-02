@@ -309,6 +309,11 @@ hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c62cf487dbee7e21677802d222d084f98326d049bc7411ca3be635f236ae7e29"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
 metafile = true
 
 [[files]]
