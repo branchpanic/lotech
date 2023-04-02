@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "a41cdbee105bccf9fc0d5ffc7b7bfb161c660e391718a620631f632a6ac84340"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "ef2c25fb917262ef509dc57eeea13bdb5a2086e9b37c09efd9c305be34a6a359"
+hash = "7b78aadde067ed6ac31b87a0a28702c8d782a0dbc45a55fd7ab678772de3d15e"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -18,7 +22,7 @@ hash = "024a71a349afbf525b99eee7e1b66108c145227d91c3499442e567b02f423437"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "afbff08177c1d60bb3229dccb01f75d80fd7b3f7d60c3b52aace70e1034ff69c"
+hash = "86ac8bb1db69f8e52a4dec67ee050fb3039fb7637d36fe3bae909491b324ebc8"
 
 [[files]]
 file = "config/create-client.toml"
@@ -43,6 +47,10 @@ hash = "e85ab91cef176cdde3b4728905ed3f27169a6b5814202ac355fe9fff7972d37c"
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "334ba5f4755105755d11e887e78463037ba1eb6d20549ab4dfc48cdd6a6fbd77"
+
+[[files]]
+file = "config/tetra.toml"
+hash = "84a3c22ac832cc7e61a80a76ecf7ad4842d02591404f908069f21a78ec3860d0"
 
 [[files]]
 file = "config/twilightforest-common.toml"
@@ -301,6 +309,11 @@ hash = "cce2da708bff7a49e80be43a2ab4d42e236627c45a34b74356d8c30f293a3886"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
@@ -468,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c62cf487dbee7e21677802d222d084f98326d049bc7411ca3be635f236ae7e29"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
 metafile = true
 
 [[files]]
