@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "ac9bb4f1c01035e9d9f8489074d44bf95d243957c7d1d87a28df4426eb34ea47"
+
+[[files]]
 file = "config/apotheosis/adventure.cfg"
 hash = "a41cdbee105bccf9fc0d5ffc7b7bfb161c660e391718a620631f632a6ac84340"
 
@@ -159,6 +163,11 @@ hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -210,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/elemental-craft.pw.toml"
-hash = "38436d7e43bc5e7a9718220eb0729c7de59aa81c69ef6a06ad6d32410cec1e96"
+hash = "01a8891fcea21c94548edca4ec252eb07ae75751cfd8a772cf3663fc28879e0c"
 metafile = true
 
 [[files]]

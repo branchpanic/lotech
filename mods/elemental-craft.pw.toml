@@ -1,13 +1,13 @@
 name = "Elemental Craft"
-filename = "elementalcraft-1.19.2-5.7.2.jar"
+filename = "elementalcraft-1.19.2-5.7.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ded146cfc00b7732afa9b346174f9d643ebc3fd4"
+hash = "7f072691272fb6f6ba8f5bfba46e3cce79c6976f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4491598
+file-id = 4492140
 project-id = 395158
