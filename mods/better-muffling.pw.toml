@@ -1,0 +1,13 @@
+name = "Better Muffling"
+filename = "Better Muffling-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9972e695078bc107a22b895091fc93955ed447de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4289165
+project-id = 284397
