@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "ac9bb4f1c01035e9d9f8489074d44bf95d243957c7d1d87a28df4426eb34ea47"
-
-[[files]]
 file = "config/apotheosis/adventure.cfg"
 hash = "a41cdbee105bccf9fc0d5ffc7b7bfb161c660e391718a620631f632a6ac84340"
 

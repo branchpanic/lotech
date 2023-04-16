@@ -6,3 +6,4 @@ README.md
 *.code-workspace
 .github
 utils/
+.vscode/
